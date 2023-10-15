@@ -1,0 +1,146 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#euroicon {
+    width: 100px;
+    height: 110px;
+}
+
+#icon {
+    padding-top: 50px;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-family: hobo-std, sans-serif;
+    font-size: 2em;
+    padding-top: 15px;
+}
+
+blockquote {
+    text-align: center;
+    min-height: 600px;
+    position: relative;
+}
+
+article {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#ronaldo {
+    background-image: url(../image/top/ronaldo1.jpeg);
+    background-size: cover;
+    background-position: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#shick {
+    background-image: url(../image/top/patrik.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#benzema {
+    background-image: url(../image/top/benzima.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.quote {
+    position: absolute;
+    width: 15%;
+    bottom: 0;
+    margin-left: 0;
+    padding-left: 5px;
+}
+
+#name {
+    color: white;
+    font-size: 2em;
+    font-weight: 400;
+    font-family: hobo-std, sans-serif;
+    text-align: left;
+}
+
+#goals {
+    color: white;
+    font-size: 1.4em;
+    font-weight: 450;
+    text-align: left;
+}
+
+#img {
+    text-align: left;
+}
+
+#back {
+    background-color: rgb(20, 90, 100);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 250px;
+}
+
+#player {
+    width: 150px;
+    height: 150px;
+    padding-top: 5px;
+    border-radius: 50%;
+}
+
+#nam {
+    padding-top: 5px;
+    color: white;
+    font-size: 1.25em;
+    font-weight: 650;
+    font-family: hobo-std, sans-serif;
+    text-align: center;
+}
+
+#goal {
+    text-align: center;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+#rank {
+    color: white;
+}
+
+#foot {
+    background-color: rgb(0, 39, 44);
+    font-family: sans-serif;
+    font-size: 1.1em;
+    text-align: center;
+    height: 45px;
+    color: white;
+}
+
+.quote a {
+    text-decoration: none;
+    color: white;
+}
+
+#back a {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,86 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#euroicon {
+    width: 100px;
+    height: 110px;
+}
+
+#icon {
+    padding-top: 50px;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-family: hobo-std, sans-serif;
+    font-size: 2em;
+    padding-top: 15px;
+}
+
+#txt {
+    text-align: left;
+    text-align: justify;
+    color: white;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+#txt1 {
+    text-align: left;
+    text-align: justify;
+    color: white;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+video {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+article {
+    background-color: rgb(20, 90, 100);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    text-align: center;
+}
+
+#back {
+    margin-top: 35px;
+    background-color: rgb(20, 90, 100);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#anothergoal {
+    padding-top: 15px;
+    color: white;
+    font-size: 1.7em;
+}
+
+span {
+    color: rgb(27, 134, 221);
+}
+
+#uefa {
+    padding-top: 10px;
+    font-family: hobo-std, sans-serif;
+    font-size: 1.4em;
+}
+
+#names {
+    color: white;
+    font-size: 1.2;
+    text-align: justify;
+    line-height: 70px;
+    font-weight: 700;
+}

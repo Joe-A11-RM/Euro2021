@@ -1,0 +1,193 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#euroicon {
+    width: 100px;
+    height: 110px;
+}
+
+#icon {
+    padding-top: 50px;
+    text-align: center;
+}
+
+#highlightvideo {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.embed-responsive-item {
+    width: 100%;
+}
+
+#border a {
+    text-decoration: none;
+    color: white;
+}
+
+#nav {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: cursive;
+    font-size: 1.1em;
+    font-weight: 400;
+}
+
+#nav:hover {
+    background-color: rgb(36, 113, 133);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#goaloftournment {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+#goalcontent:hover {
+    transform: scale(1.1);
+}
+
+#goalcontent {
+    text-align: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: white;
+    transition: transform 1s;
+}
+
+#txt {
+    text-align: center;
+    font-size: 1.4em;
+    padding-left: 15px;
+    font-family: hobo-std, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+    color: white;
+}
+
+#txt:hover {
+    color: rgba(197, 109, 74, 0.836);
+}
+
+#txt a {
+    text-decoration: none;
+    color: white;
+}
+
+#border {
+    border-bottom: rgb(88, 145, 123) 5px solid;
+}
+
+#back {
+    padding-top: 10px;
+    border-bottom: rgb(88, 145, 123) 5px solid;
+}
+
+#team {
+    text-align: center;
+    transition: transform 1s;
+    border-radius: 10%;
+}
+
+#team:hover {
+    transform: scale(1.1);
+}
+
+blockquote {
+    text-align: center;
+}
+
+blockquote a {
+    text-decoration: none;
+    color: white;
+}
+
+#button {
+    font-size: 1.2em;
+    font-weight: 500;
+    font-family: hobo-std, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+
+#button:hover {
+    color: rgb(0, 39, 44);
+}
+
+#italycaption {
+    text-align: center;
+    font-family: fantasy;
+}
+
+.carousel-inner {
+    max-height: 1000px;
+}
+
+#glory {
+    border-bottom: rgb(88, 145, 123) 5px solid;
+}
+
+#hoststadium {
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-family: fantasy;
+}
+
+#stadium {
+    transition: transform 1s;
+}
+
+#stadium:hover {
+    transform: scale(1.1);
+}
+
+#host {
+    text-align: center;
+    color: white;
+    font-family: hobo-std, sans-serif;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+#host:hover {
+    background-color: rgb(0, 39, 44);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#foot {
+    background-color: rgb(0, 39, 44);
+    font-family: sans-serif;
+    font-size: 1.1em;
+    text-align: center;
+    height: 45px;
+    color: white;
+}
+
+#loader {
+    background: url(../image/gif/euroloader2.gif) no-repeat center;
+    background-size: cover;
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+audio {
+    display: none;
+}
